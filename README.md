@@ -49,8 +49,64 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
 - **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+
+---
+
+## Requisitos previos
+
+- Ninguno. No hace falta experiencia en programación.
+- Un navegador web actualizado y conexión a internet.
+- No es necesario crear cuentas ni instalar programas.
+
+---
+##Repositorio
+Dentro de cada carpeta de lección encontrarás:
+
+| Archivo | Para qué sirve |
+|---|---|
+| `index.html` | Contenido de la página (va en el panel HTML del editor) |
+| `style.css` | Estilos de la página (va en el panel CSS del editor) |
+
+---
+
+## Cómo cargar un ejemplo en JSFiddle
+
+1. Abre [jsfiddle.net](https://jsfiddle.net/) en tu navegador.
+2. Abre el archivo `index.html` de la lección en este repositorio y copia su contenido.
+3. Pégalo en el panel **HTML** de JSFiddle.
+4. Repite con `style.css` en el panel **CSS**.
+5. Pulsa **Run** para ver el resultado.
+
+> En JSFiddle el panel HTML ya funciona como el `body` de la página. Por eso los archivos de ejemplo solo incluyen el contenido que va dentro del `body`.
+
+### Carpetas principales
+
+- **`files/`**: archivos con los que empiezas cada práctica.
+- **`completed-examples/`**: cómo debería verse el código al terminar. Úsalos para comparar, no para copiar sin intentarlo primero.
+
+
+## Cómo seguir el curso
+
+1. Mira el video de la lección 
+2. Cuando el video diga **"Pausa el video"**, abre el enlace de práctica de esa lección.
+3. Completa la actividad en el editor en línea. 
+4. Si te atascas, compara tu trabajo con el ejemplo terminado de la carpeta `completed-examples`.
+
+---
+### Usar las imagenes
+
+Las imágenes de la carpeta `files/assets/` se usan con la dirección "Raw" de GitHub:
+
+```html
+<img src="https://raw.githubusercontent.com/webdev-course-vocafy/webdev-course/refs/heads/develop/files/assets/avatar_1.png" alt="Avatar">
+```
+
+Para elegir otro avatar, cambia `avatar_1` por `avatar_2`, `avatar_3` o `avatar_4`.
+
+---
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
+- [Validador de HTML del W3C](https://validator.w3.org/): revisa si tu código tiene errores.
 - **Todas las Actividades Prácticas**:
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
@@ -59,8 +115,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
-- Compartir: #WebDevBeginners
+
+
+
 **¡Gracias por completar el curso!**
 ---
 ## �� Elaboración
