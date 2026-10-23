@@ -1,11 +1,11 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS.
-**¡No requiere descargas!** Solo abre tu navegador web.
+Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS.<br/>
+**¡No requiere descargas!** Solo abre tu navegador web.<br/>
+**Duración total**: ~60 minutos
 
 <br/>
 
-**Duración total**: ~60 minutos
 
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 
@@ -15,7 +15,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 <br/>
 
-**Repositorio de código fuente**: 
+**Repositorio de código fuente**: https://github.com/webdev-course-vocafy/webdev-course.git 
 
 
 ## Secuencia de la lección
@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - No es necesario crear cuentas ni instalar programas.
 
 ---
-##Repositorio
+## Repositorio
 Dentro de cada carpeta de lección encontrarás:
 
 | Archivo | Para qué sirve |
@@ -69,7 +69,7 @@ Dentro de cada carpeta de lección encontrarás:
 
 ---
 
-## Cómo cargar un ejemplo en JSFiddle
+### Cómo cargar un ejemplo en JSFiddle
 
 1. Abre [jsfiddle.net](https://jsfiddle.net/) en tu navegador.
 2. Abre el archivo `index.html` de la lección en este repositorio y copia su contenido.
@@ -78,19 +78,11 @@ Dentro de cada carpeta de lección encontrarás:
 5. Pulsa **Run** para ver el resultado.
 
 > En JSFiddle el panel HTML ya funciona como el `body` de la página. Por eso los archivos de ejemplo solo incluyen el contenido que va dentro del `body`.
-
+---
 ### Carpetas principales
 
 - **`files/`**: archivos con los que empiezas cada práctica.
 - **`completed-examples/`**: cómo debería verse el código al terminar. Úsalos para comparar, no para copiar sin intentarlo primero.
-
-
-## Cómo seguir el curso
-
-1. Mira el video de la lección 
-2. Cuando el video diga **"Pausa el video"**, abre el enlace de práctica de esa lección.
-3. Completa la actividad en el editor en línea. 
-4. Si te atascas, compara tu trabajo con el ejemplo terminado de la carpeta `completed-examples`.
 
 ---
 ### Usar las imagenes
@@ -103,31 +95,45 @@ Las imágenes de la carpeta `files/assets/` se usan con la dirección "Raw" de G
 
 Para elegir otro avatar, cambia `avatar_1` por `avatar_2`, `avatar_3` o `avatar_4`.
 
+## Cómo seguir el curso
+
+1. Mira el video de la lección 
+2. Cuando el video diga **"Pausa el video"**, abre el enlace de práctica de esa lección.
+3. Completa la actividad en el editor en línea. 
+4. Si te atascas, compara tu trabajo con el ejemplo terminado de la carpeta `completed-examples`.
+
+
 ---
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname)
-- [Validador de HTML del W3C](https://validator.w3.org/): revisa si tu código tiene errores.
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/webdev-course-vocafy/webdev-course.git)
+- **Revisa si tu código tiene errores** [Validador de HTML del W3C](https://validator.w3.org/): 
 - **Todas las Actividades Prácticas**:
   
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 1 | Explorar Sitios Web | [JSFiddle](https://codepen.io/your-lesson1) |
+| 2 | Primera página HTML | [JSFiddle](https://codepen.io/your-lesson2) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
+| 4 | Estilo de la página | [JSFiddle](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [JSFiddle](https://jsfiddle.net/p6bnya4s) |
 
 
 
 **¡Gracias por completar el curso!**
 ---
-## �� Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202620
-1ASI0730 Aplicaciones Web
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de su equipo]
-**Líder del equipo**: [Nombres y Apellidos del líder]
-**Integrantes del equipo**: [Nombres y Apellidos de cada participante]
-**Fecha de entrega**: [Fecha]
+## Elaboración
+Universidad Peruana de Ciencias Aplicadas<br/>
+Carrera de Ingeniería de Software<br/>
+Período 202620<br/>
+1ASI0730 Aplicaciones Web <br/>
+NRC 16127<br/>
+**Nombre del equipo** : Vocafy<br/>
+**Líder del equipo** : Jesus Angel Yvan Miranda Cordova<br/>
+**Integrantes del equipo** :
+- U202410420	Fernando Sebastian Pérez Bellido
+- U202411354	Joaquin Cruzalegui Herrera
+- U202411261	Miranda Cordova, Jesus Angel Yvan
+- U20221F887	Luciana Angelina Ravello Cárdenas
+- U202624323	Alisee Muriel Torres Juárez
+
+**Fecha de entrega** : 13/11/26
