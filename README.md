@@ -36,7 +36,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) �� **¡Comienza al instante!**
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/N6TcOZF2bwg)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
 - **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) �� **¡No es necesario registrarse!**
 ### Lección 5: Crear una página web sencilla (15 minutos)
