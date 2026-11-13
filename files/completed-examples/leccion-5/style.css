@@ -1,0 +1,15 @@
+body {
+  background-color: #f0f0ff;
+  font-family: Arial;
+}
+.imagen{
+    width: 120px;
+}
+.tarjeta {
+  width: 300px;
+  margin: 0 auto;
+  border: 2px solid purple;
+  border-radius: 12px;
+  padding: 20px;
+  text-align: center;
+}
