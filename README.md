@@ -21,9 +21,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ## Secuencia de la lección
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/KlUY8ielLi8)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Empieza a programar**: [Open CodePen](https://jsfiddle.net)
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/jcVjD_91Mus)
@@ -46,9 +46,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Proyecto Final**: [Crea tu Perfil](https://jsfiddle.net/)  **¡Guarda y comparte!**
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver Lección](https://youtu.be/4cctR8ZGr0A)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+- **Comparte tu Trabajo**: [Envía tu Creación](https://jsfiddle.net/)
 
 ---
 
