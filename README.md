@@ -48,7 +48,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver Lección](https://youtu.be/4cctR8ZGr0A)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://jsfiddle.net/)
+- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=YLAMDq0J9UmgBWi5tJqh9lHeeLK5RWBMqr8qi1KoneVUMkNOQUtMU0ZPQjdYM0pUR1lHNlZRMEZESy4u)
 
 ---
 
