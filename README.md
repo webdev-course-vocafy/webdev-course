@@ -23,7 +23,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
 - **Enlace**: [Ver la lección](https://youtu.be/KlUY8ielLi8)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://jsfiddle.net)
+- **Empieza a programar**: [Open CodePen](https://jsfiddle.net/)
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/jcVjD_91Mus)
